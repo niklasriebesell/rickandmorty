@@ -8,6 +8,10 @@ const Section = styled.section`
   display: flex;
   flex-direction: column;
 
+  img {
+    border-radius: 50%;
+  }
+
   h3 {
     color: blue;
     text-align: center;
